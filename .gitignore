@@ -1,0 +1,5 @@
+src/bin/**
+src/include/**
+src/lib/**
+src/local/**
+src/pip-selfcheck.json
